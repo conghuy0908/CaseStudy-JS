@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 80%;
+    height: 800px;
+    float: left;
+}
+.main{
+    border: 3px solid #000000;
+    margin-top: 20px;
+    margin-left: 250px;
+
+}
+.group-btn{
+    text-align: center;
+    margin-left: 100px;
+}
+.btn{
+    width: 250px;
+    height: 20px;
+}
+.Right{
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+.core{
+    font-size: 30px;
+    font-weight: bold;
+ }
