@@ -112,7 +112,7 @@ function startGame() {
                         isGameWin = true;
                     }
                 };
-                document.getElementById("core").innerText = " " + userCore + ""
+                document.getElementById("core").innerText = "Điểm : " + userCore + ""
 
             };
         });

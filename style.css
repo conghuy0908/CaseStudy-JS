@@ -11,7 +11,6 @@ body{
     border: 3px solid #000000;
     margin-top: 20px;
     margin-left: 250px;
-    /* background-image: url(Bg.jpg); */
 
 }
 .group-btn{
@@ -28,6 +27,8 @@ body{
     float: left;
 }
 .core{
-    font-size: 30px;
+
+    font-size: 25px;
     font-weight: bold;
+    margin-left: -50px;
  }
